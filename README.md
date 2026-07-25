@@ -309,7 +309,6 @@ Through this project, I strengthened my understanding of:
 # 👩‍💻 Author
 
 **Janani S**
-**GitHub:** https://github.com/janani-1466
 
 ---
 
